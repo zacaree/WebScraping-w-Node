@@ -1,6 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-/node_modules
+
+First-Web-Scraper/node_modules
+Second-Web-Scraper/node_modules
 /.cache
 /dist
 /build
